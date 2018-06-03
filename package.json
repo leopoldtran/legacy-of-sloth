@@ -1,0 +1,28 @@
+{
+  "name": "legacy-of-sloth",
+  "displayName": "Legacy of Sloth",
+  "version": "1.0.0",
+  "description": "Visual studio code color theme",
+  "keywords": [
+    "themes",
+    "vs-code",
+    "codes"
+  ],
+  "author": "Leopold Belphegor",
+  "publisher": "Leopold Belphegor",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Legacy of Sloth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/legacy-of-sloth.json"
+      }
+    ]
+  }
+}
